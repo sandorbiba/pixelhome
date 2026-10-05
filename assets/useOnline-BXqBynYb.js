@@ -1,0 +1,1 @@
+import{r as n}from"./index-Ba_B1SEn.js";function r(e){return window.addEventListener("online",e),window.addEventListener("offline",e),()=>{window.removeEventListener("online",e),window.removeEventListener("offline",e)}}const i=()=>n.useSyncExternalStore(r,()=>navigator.onLine);export{i as u};
