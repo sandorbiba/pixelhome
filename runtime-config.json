@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "emulator": false,
+  "appCheckSiteKey": "",
+  "firebase": {
+    "apiKey": "AIzaSyD7-aOUh0l7NqEKCBHkbJ8qI63e6L0IEeg",
+    "authDomain": "pixelhome-prod.firebaseapp.com",
+    "projectId": "pixelhome-prod",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": "1:45327610225:web:ea7438322a208ca4a006d0"
+  }
+}
